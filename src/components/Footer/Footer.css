@@ -52,3 +52,11 @@
         text-align: center;
     }
 }
+.heading{
+    font-size: 20px;
+    color : Red;
+}
+.paragraph{
+    font-size: 20px;
+    color : white;
+}
